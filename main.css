@@ -5,6 +5,18 @@ body {
 .heading-for-jumbotron {
   color: #8B635C
 }
+.email-for-jumbotron {
+  color: #8B635C
+}
+.email-for-jumbotron:hover {
+  color: #F2C57C
+}
+.contact-links {
+  color: #8B635C
+}
+.contact-links:hover {
+  color: #F2C57C
+}
 /*!
  * Bootstrap v4.0.0-beta (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
