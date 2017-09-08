@@ -17,6 +17,19 @@ body {
 .contact-links:hover {
   color: #F2C57C
 }
+
+.profileIMG {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 30%;
+}
+
+.threeCollumnHeader {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 /*!
  * Bootstrap v4.0.0-beta (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
@@ -565,22 +578,50 @@ pre code {
     .container {
         max-width: 540px
     }
-}
+    .profileIMG {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 30%;
+    }
+  }
+
 @media (min-width:768px) {
     .container {
         max-width: 720px
     }
+    .profileIMG {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 30%;
+    }
 }
+
 @media (min-width:992px) {
     .container {
         max-width: 960px
     }
+    .profileIMG {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 30%;
+    }
 }
+
 @media (min-width:1200px) {
     .container {
         max-width: 1140px
     }
+    .profileIMG {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 30%;
+    }
 }
+
 .container-fluid {
     width: 100%;
     margin-right: auto;
